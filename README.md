@@ -41,10 +41,13 @@ karenderia-web-app/
 
 ```
 
-## How to Run
-1. Clone the repository  
-2. Open the project folder  
-3. Open `index.html` in any web browser  
+## Usage Instructions
+1. Open `index.html` in a web browser.
+2. Navigate to the **Menu** page to view available food items and prices.
+3. Go to the **Order** page to select food items and create an order.
+4. Review the total price automatically computed by the system.
+5. Visit the **Sales** page to view the daily sales summary and number of orders.
+
 
 ## Technologies Used
 - HTML  
