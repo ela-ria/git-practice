@@ -3,7 +3,7 @@
 
 ## Overview
 The **Karenderia Web App** is a simple web-based application designed to support the daily operations of a small local eatery (karenderia). It allows users to view the menu, create orders, and track daily sales.  
-This project was developed as part of a **group laboratory activity** to practice collaborative development using **Git and GitHub**.
+
 
 
 ## Features
@@ -40,6 +40,9 @@ karenderia-web-app/
 └── README.md
 
 ```
+## Rules in making this app
+1. Do not PUSH in main.
+2. Each member should make their own branch for each feature.
 
 ## Usage Instructions
 1. Open `index.html` in a web browser.
